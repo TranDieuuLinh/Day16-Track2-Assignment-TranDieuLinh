@@ -1,0 +1,16 @@
+{
+  "instance_type": "t3.micro",
+  "dataset": "mlg-ulb/creditcardfraud",
+  "num_rows": 284807,
+  "num_features": 30,
+  "data_load_time_seconds": 2.4653,
+  "training_time_seconds": 2.201,
+  "best_iteration": 1,
+  "auc_roc": 0.939042,
+  "accuracy": 0.998841,
+  "f1_score": 0.722689,
+  "precision": 0.614286,
+  "recall": 0.877551,
+  "inference_latency_1_row_ms": 0.4355,
+  "inference_throughput_1000_rows_per_sec": 1195767.46
+}
